@@ -8,14 +8,6 @@
 
 
 
-  <data name="en_pano174_title"><![CDATA[GF main entrance lobby left]]></data>
-  <data name="en_spotpolygon176_tooltip"><![CDATA[GF powder room]]></data>
-  <data name="en_spotpolygon177_tooltip"><![CDATA[GF room 1 west and closet]]></data>
-  <data name="en_spotpolygon178_tooltip"><![CDATA[coollogo_com-4553660]]></data>
-  <data name="en_spotpolygon179_tooltip"><![CDATA[coollogo_com-4553660]]></data>
-  <data name="en_spotpoint185_tooltip"><![CDATA[GF Main entrance lobby right side]]></data>
-
-
   <data name="en_pano106_title"><![CDATA[GF Main entrance lobby right side]]></data>
   <data name="en_spotpoint108_tooltip"><![CDATA[GF main entrance lobby left]]></data>
   <data name="en_spotpolygon114_tooltip"><![CDATA[GF West side room 2]]></data>
@@ -35,15 +27,30 @@
   <data name="en_spotpolygon115_tooltip"><![CDATA[GF Main entrance lobby right side]]></data>
   <data name="en_pano182_title"><![CDATA[GF powder room]]></data>
   <data name="en_spotpolygon184_tooltip"><![CDATA[GF main entrance lobby left]]></data>
+  <data name="en_pano236_title"><![CDATA[GF rear balcony]]></data>
+  <data name="en_spotpolygon241_tooltip"><![CDATA[GF  living room]]></data>
 
 
   <data name="en_pano116_title"><![CDATA[GF  living room]]></data>
   <data name="en_spotpolygon119_tooltip"><![CDATA[GF Main entrance lobby right side]]></data>
-  <data name="en_spotpolygon188_tooltip"><![CDATA[coollogo_com-4553660]]></data>
-  <data name="en_spotpolygon189_tooltip"><![CDATA[coollogo_com-4553660]]></data>
+  <data name="en_spotpolygon188_tooltip"><![CDATA[GF Kitchen]]></data>
+  <data name="en_spotpolygon189_tooltip"><![CDATA[GF rear balcony]]></data>
 
 
   <data name="en_pano180_title"><![CDATA[coollogo_com-4553660]]></data>
+
+
+  <data name="en_pano238_title"><![CDATA[GF Kitchen]]></data>
+  <data name="en_spotpolygon307_tooltip"><![CDATA[GF Main entrance lobby right side]]></data>
+  <data name="en_spotpolygon308_tooltip"><![CDATA[GF  living room]]></data>
+
+
+  <data name="en_pano174_title"><![CDATA[GF main entrance lobby left]]></data>
+  <data name="en_spotpolygon176_tooltip"><![CDATA[GF powder room]]></data>
+  <data name="en_spotpolygon177_tooltip"><![CDATA[GF room 1 west and closet]]></data>
+  <data name="en_spotpolygon178_tooltip"><![CDATA[coollogo_com-4553660]]></data>
+  <data name="en_spotpolygon179_tooltip"><![CDATA[coollogo_com-4553660]]></data>
+  <data name="en_spotpoint185_tooltip"><![CDATA[GF Main entrance lobby right side]]></data>
 
 
 
@@ -103,6 +110,10 @@
   <data name="en_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
   <data name="en_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
   <data name="en_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
 
 
 
