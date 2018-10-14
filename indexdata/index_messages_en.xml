@@ -14,6 +14,7 @@
   <data name="en_spotpolygon118_tooltip"><![CDATA[GF  living room]]></data>
   <data name="en_spotpolygon187_tooltip"><![CDATA[coollogo_com-4553660]]></data>
   <data name="en_spotpolygon190_tooltip"><![CDATA[coollogo_com-4553660]]></data>
+  <data name="en_spotpoint312_tooltip"><![CDATA[coollogo_com-4553660]]></data>
 
   <data name="en_panogroup100_title"><![CDATA[ground floor done]]></data>
 
@@ -29,8 +30,9 @@
   <data name="en_spotpolygon184_tooltip"><![CDATA[GF main entrance lobby left]]></data>
   <data name="en_pano236_title"><![CDATA[GF rear balcony]]></data>
   <data name="en_spotpolygon241_tooltip"><![CDATA[GF  living room]]></data>
-
-
+  <data name="en_pano238_title"><![CDATA[GF Kitchen]]></data>
+  <data name="en_spotpolygon307_tooltip"><![CDATA[GF Main entrance lobby right side]]></data>
+  <data name="en_spotpolygon308_tooltip"><![CDATA[GF  living room]]></data>
   <data name="en_pano116_title"><![CDATA[GF  living room]]></data>
   <data name="en_spotpolygon119_tooltip"><![CDATA[GF Main entrance lobby right side]]></data>
   <data name="en_spotpolygon188_tooltip"><![CDATA[GF Kitchen]]></data>
@@ -40,17 +42,13 @@
   <data name="en_pano180_title"><![CDATA[coollogo_com-4553660]]></data>
 
 
-  <data name="en_pano238_title"><![CDATA[GF Kitchen]]></data>
-  <data name="en_spotpolygon307_tooltip"><![CDATA[GF Main entrance lobby right side]]></data>
-  <data name="en_spotpolygon308_tooltip"><![CDATA[GF  living room]]></data>
-
-
   <data name="en_pano174_title"><![CDATA[GF main entrance lobby left]]></data>
   <data name="en_spotpolygon176_tooltip"><![CDATA[GF powder room]]></data>
   <data name="en_spotpolygon177_tooltip"><![CDATA[GF room 1 west and closet]]></data>
   <data name="en_spotpolygon178_tooltip"><![CDATA[coollogo_com-4553660]]></data>
   <data name="en_spotpolygon179_tooltip"><![CDATA[coollogo_com-4553660]]></data>
   <data name="en_spotpoint185_tooltip"><![CDATA[GF Main entrance lobby right side]]></data>
+  <data name="en_spotpoint309_tooltip"><![CDATA[coollogo_com-4553660]]></data>
 
 
 
@@ -110,10 +108,6 @@
   <data name="en_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
   <data name="en_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
   <data name="en_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
-
-
-
-
 
 
 
