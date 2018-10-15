@@ -7,6 +7,9 @@
   <data name="en_project_author_url"><![CDATA[https://www.instagram.com/ramithchandula/]]></data>
 
 
+
+  <data name="en_pano180_title"><![CDATA[Upstairs]]></data>
+
   <data name="en_panogroup667_title"><![CDATA[Outside Group]]></data>
 
   <data name="en_pano373_title"><![CDATA[Front Gate Outside]]></data>
@@ -15,18 +18,14 @@
   <data name="en_pano380_title"><![CDATA[Front Gate Inside Porch]]></data>
   <data name="en_spotpolygon387_tooltip"><![CDATA[GF main entrance lobby left]]></data>
   <data name="en_spotpoint388_tooltip"><![CDATA[Front of Garage]]></data>
-  <data name="en_spotpoint451_tooltip"><![CDATA[Left of Front Gate Outside]]></data>
+  <data name="en_spotpoint451_tooltip"><![CDATA[Left of Front Gate Inside]]></data>
   <data name="en_spotpolygon385_tooltip"><![CDATA[Front Gate Outside]]></data>
   <data name="en_pano662_title"><![CDATA[Inside Garage]]></data>
   <data name="en_spotpolygon664_tooltip"><![CDATA[GF main entrance lobby left]]></data>
   <data name="en_spotpoint666_tooltip"><![CDATA[Front of Garage]]></data>
   <data name="en_pano378_title"><![CDATA[Rear Gate Outside]]></data>
   <data name="en_spotpoint382_tooltip"><![CDATA[Front Gate Outside]]></data>
-  <data name="en_spotpolygon383_tooltip"><![CDATA[coollogo_com-4553660]]></data>
-  <data name="en_pano452_title"><![CDATA[Left of Front Gate Outside]]></data>
-  <data name="en_spotpoint454_tooltip"><![CDATA[Front Gate Inside Porch]]></data>
-  <data name="en_spotpolygon455_tooltip"><![CDATA[Front Gate Outside]]></data>
-  <data name="en_spotpoint456_tooltip"><![CDATA[coollogo_com-4553660]]></data>
+  <data name="en_spotpolygon383_tooltip"><![CDATA[Back Gate Inside]]></data>
   <data name="en_pano461_title"><![CDATA[Front of Garage]]></data>
   <data name="en_spotpoint463_tooltip"><![CDATA[Front Gate Inside Porch]]></data>
   <data name="en_spotpoint464_tooltip"><![CDATA[Inside Garage]]></data>
@@ -35,10 +34,32 @@
   <data name="en_pano671_title"><![CDATA[Right of Garage]]></data>
   <data name="en_spotpoint673_tooltip"><![CDATA[Front of Garage]]></data>
   <data name="en_spotpoint674_tooltip"><![CDATA[Grass area Next to Water Tanks]]></data>
-  <data name="en_spotpoint675_tooltip"><![CDATA[coollogo_com-4553660]]></data>
-
-
-  <data name="en_pano180_title"><![CDATA[coollogo_com-4553660]]></data>
+  <data name="en_spotpoint675_tooltip"><![CDATA[Upstairs]]></data>
+  <data name="en_pano676_title"><![CDATA[Grass area Next to Water Tanks]]></data>
+  <data name="en_spotpoint678_tooltip"><![CDATA[Right of Garage]]></data>
+  <data name="en_spotpoint679_tooltip"><![CDATA[Upstairs]]></data>
+  <data name="en_spotpoint680_tooltip"><![CDATA[Basement 2nd level]]></data>
+  <data name="en_pano800_title"><![CDATA[Basement 2nd level]]></data>
+  <data name="en_spotpoint802_tooltip"><![CDATA[Grass area Next to Water Tanks]]></data>
+  <data name="en_spotpoint803_tooltip"><![CDATA[Basement 2nd level inside]]></data>
+  <data name="en_pano804_title"><![CDATA[Basement 2nd level inside]]></data>
+  <data name="en_spotpolygon806_tooltip"><![CDATA[Basement 2nd level]]></data>
+  <data name="en_spotpoint808_tooltip"><![CDATA[Basement lower level]]></data>
+  <data name="en_pano810_title"><![CDATA[Basement lower level]]></data>
+  <data name="en_spotpoint812_tooltip"><![CDATA[Basement 2nd level inside]]></data>
+  <data name="en_spotpoint813_tooltip"><![CDATA[Outside Basement]]></data>
+  <data name="en_pano814_title"><![CDATA[Outside Basement]]></data>
+  <data name="en_spotpoint816_tooltip"><![CDATA[Basement lower level]]></data>
+  <data name="en_spotpoint817_tooltip"><![CDATA[Back Gate Inside]]></data>
+  <data name="en_pano818_title"><![CDATA[Back Gate Inside]]></data>
+  <data name="en_spotpolygon820_tooltip"><![CDATA[Rear Gate Outside]]></data>
+  <data name="en_spotpoint821_tooltip"><![CDATA[Left of Front Gate Inside]]></data>
+  <data name="en_spotpoint822_tooltip"><![CDATA[Outside Basement]]></data>
+  <data name="en_spotpoint824_tooltip"><![CDATA[Basement lower level]]></data>
+  <data name="en_pano452_title"><![CDATA[Left of Front Gate Inside]]></data>
+  <data name="en_spotpoint454_tooltip"><![CDATA[Front Gate Inside Porch]]></data>
+  <data name="en_spotpolygon455_tooltip"><![CDATA[Front Gate Outside]]></data>
+  <data name="en_spotpoint456_tooltip"><![CDATA[Back Gate Inside]]></data>
 
   <data name="en_panogroup374_title"><![CDATA[Inside group]]></data>
 
@@ -67,20 +88,14 @@
   <data name="en_spotpolygon118_tooltip"><![CDATA[GF  living room]]></data>
   <data name="en_spotpolygon187_tooltip"><![CDATA[Front Gate Inside Porch]]></data>
   <data name="en_spotpolygon190_tooltip"><![CDATA[GF Kitchen]]></data>
-  <data name="en_spotpoint312_tooltip"><![CDATA[coollogo_com-4553660]]></data>
+  <data name="en_spotpoint312_tooltip"><![CDATA[Upstairs]]></data>
   <data name="en_pano174_title"><![CDATA[GF main entrance lobby left]]></data>
   <data name="en_spotpolygon176_tooltip"><![CDATA[GF powder room]]></data>
   <data name="en_spotpolygon177_tooltip"><![CDATA[GF room 1 west and closet]]></data>
   <data name="en_spotpolygon178_tooltip"><![CDATA[Inside Garage]]></data>
   <data name="en_spotpolygon179_tooltip"><![CDATA[Front Gate Inside Porch]]></data>
   <data name="en_spotpoint185_tooltip"><![CDATA[GF Main entrance lobby right side]]></data>
-  <data name="en_spotpoint309_tooltip"><![CDATA[coollogo_com-4553660]]></data>
-
-
-  <data name="en_pano676_title"><![CDATA[Grass area Next to Water Tanks]]></data>
-  <data name="en_spotpoint678_tooltip"><![CDATA[Right of Garage]]></data>
-  <data name="en_spotpoint679_tooltip"><![CDATA[coollogo_com-4553660]]></data>
-  <data name="en_spotpoint680_tooltip"><![CDATA[coollogo_com-4553660]]></data>
+  <data name="en_spotpoint309_tooltip"><![CDATA[Upstairs]]></data>
 
 
 
@@ -140,6 +155,9 @@
   <data name="en_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
   <data name="en_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
   <data name="en_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
 
 
 
