@@ -7,9 +7,6 @@
   <data name="en_project_author_url"><![CDATA[https://www.instagram.com/ramithchandula/]]></data>
 
 
-
-  <data name="en_pano180_title"><![CDATA[Upstairs]]></data>
-
   <data name="en_panogroup667_title"><![CDATA[Outside Group]]></data>
 
   <data name="en_pano373_title"><![CDATA[Front Gate Outside]]></data>
@@ -60,6 +57,9 @@
   <data name="en_spotpoint454_tooltip"><![CDATA[Front Gate Inside Porch]]></data>
   <data name="en_spotpolygon455_tooltip"><![CDATA[Front Gate Outside]]></data>
   <data name="en_spotpoint456_tooltip"><![CDATA[Back Gate Inside]]></data>
+
+
+  <data name="en_pano180_title"><![CDATA[Upstairs]]></data>
 
   <data name="en_panogroup374_title"><![CDATA[Inside group]]></data>
 
