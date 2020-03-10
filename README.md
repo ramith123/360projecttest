@@ -7,4 +7,4 @@ HTML was adjusted for the clients need.
 Website : https://ramith123.github.io/360projecttest/
 
 
-Photography was done using a dji 360 camera with custom software.
+Photography was done using a dji gimbled camera with custom software.
